@@ -13,6 +13,8 @@
 |Neve.brd|EAGLEボード図ファイル|
 |control_Neve.ino|Arduinoソースファイル|
 
+回路図ファイルとボード図ファイルは、Fusion360で作成したものをEAGLE形式で出力しています。
+
 <br>
 
 ## 制御について  
